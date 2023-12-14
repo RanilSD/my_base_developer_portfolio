@@ -6,7 +6,7 @@ class Contact extends React.Component {
       return (
         <section
           className="paralax-mf footer-paralax bg-image sect-mt4 route"
-          style={{ backgroundImage: "url(" + imageOverlay + ")" }}
+          style={{ backgroundImage: "purple" }}
         >
           <div className="overlay-mf"></div>
           <div className="container">
@@ -103,11 +103,9 @@ class Contact extends React.Component {
                         </div>
                         <div className="more-info">
                           <p className="lead">
-                            Whether you want to get in touch, talk about a project
-                            collaboration, or just say hi, I'd love to hear from
-                            you.
+                            I would love to hear your feedback!!!
                             <br />
-                            Simply fill the from and send me an email.
+                            Please fill the form and send me an email!!!
                           </p>
                           {}
                         </div>
