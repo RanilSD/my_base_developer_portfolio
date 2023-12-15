@@ -35,7 +35,7 @@ export const personalInfo = {
     about: `I enjoy coding to see how things work, and have been doing it leisurly since the late 90's. I finally decided to pull the trigger and go through the process of making it my life's work!!!!`,
   };
 
-  //i will be adding my actual social media information once i create and augment the rest not just my github page
+  //i will be adding my actual social media information once i create and update the rest not just my github page
   export const socialMediaUrl = {
     linkdein: "https://www.linkedin.com/",
     github: "https://github.com/RanilSD",
@@ -143,3 +143,8 @@ export const personalInfo = {
 
 ];
 
+//my contact info
+export const contactInfo = {
+  email: "ranilsd86@gmail.com",
+  phone: "to be announced",
+};
